@@ -29,6 +29,11 @@ React 및 Next.js 기반의 프론트엔드 프로젝트와 학습 코드를 모
 - 프로젝트 초기 설정 및 라우팅 연습
 - **주요 라이브러리:** Next.js
 
+### 🛒 inflearn-shoppingmall
+- 인프런 강의 기반 쇼핑몰 프로젝트
+- 상품 리스트 및 장바구니 기능 구현
+- **주요 라이브러리:** React, React Router
+
 ### ⚛️ react-warmup
 - React 기초 학습 및 워밍업
 - 컴포넌트 구조 및 Hooks 활용 연습
